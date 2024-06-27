@@ -1,0 +1,40 @@
+
+https://github.com/dotnet-campus/AsyncWorkerCollection
+
+https://github.com/ardalis/CleanArchitecture.WorkerService
+
+https://github.com/NetCoreTemplates/worker-rabbitmq
+.NET 6.0 Rabbit MQ Worker Service
+
+https://adnanrafiq.com/blog/complete-guide-to-hosted-or-background-or-worker-services-in-dot-net-using-csharp/
+A Complete Guide to Hosted Service(s) in .NET 6 using C# 10
+
+How to Build CRUD Operations with .NET Core – A Todo API Handbook
+https://www.freecodecamp.org/news/build-crud-operations-with-dotnet-core-handbook/
+
+https://www.hangfire.io/
+An easy way to perform background processing in .NET and .NET Core applications. No Windows Service or separate process required.
+Backed by persistent storage. Open and free for commercial use.
+
+https://radixweb.com/introduction-to-dotnet-core
+
+
+
+RU
+
+Что такое .NET Core?
+https://1cloud.ru/blog/chto-takoe-net-core
+
+https://cyberleninka.ru/article/n/arhitektura-tehnologii-razrabotki-veb-prilozheniy-asp-net-core-mvc
+
+
+
+
+
+
+
+
+
+
+
+
